@@ -1,5 +1,5 @@
 {
-    "name": "laravel/sanctum",
+    "name": "neoistone/sanctum",
     "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
     "keywords": ["laravel", "sanctum", "auth"],
     "license": "MIT",
